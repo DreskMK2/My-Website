@@ -6,17 +6,9 @@
 
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
-        {% if site.about %}
-            <a class="link" href="{{ site.url }}/about">
-                <img class="selfie" alt="{{ site.name }}" src="assets/images/picture3.jpg" />
-            </a>
-        {% else %}
-            <span class="link">
-                <img class="selfie" alt="Image" src="_site/assets/images/picture2.jpg" />
-            </span>
-            <img class="imagen" alt="Image" src="assets/images/picture2.jpg" />
-        {% endif %}
 
+            <img class="imagen" alt="Image" src="assets/images/picture2.jpg" />
+            
         <h1 class="title">{{ site.name }}</h1>
         <h2 class="description">{{ site.bio }}</h2>
 
