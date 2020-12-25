@@ -57,8 +57,7 @@ authors:
     bio: M.Sc. Eng., Technology Based Business Development | Sustainability | Renewable energy | Business development | Optimisation | Keyboard enthusiast | 3D printers
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: DreskMk2
-
+    twitter: 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
@@ -75,8 +74,8 @@ pagination:
 # if you don't need projects, comment the *projects* configs below
 projects: false
 
-# if you don't need p`rojects, comment the *projects* configs below
-company: true
+# if you don't need company, comment the *company* configs below
+company: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
