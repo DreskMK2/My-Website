@@ -1,6 +1,6 @@
 # main text of home
 name: Pedro Gomez Hernandez
-bio: M.Sc. Eng., Technology Based Business Development | Linux | Renewable energy | Business development | Keyboard enthusiast | 3D printers | Stenography | Cubing
+bio: M.Sc. Eng., Technology Based Business Development | Linux | Virtual reality | Haptics | Business development | Keyboard enthusiast | 3D printers | Stenography | Cubing
 # twitter summary info
 description: A node to all my social networks
 
@@ -54,7 +54,7 @@ linkedin: pedrogomezhernandez
 authors:
   johndoe:
     name: Pedro Gomez Hernandez
-    bio: M.Sc. Eng., Technology Based Business Development | Linux | Renewable energy | Business development | Keyboard enthusiast | 3D printers | Stenography | Cubing
+    bio: M.Sc. Eng., Technology Based Business Development | Linux | Virtual reality | Haptics | Business development | Keyboard enthusiast | 3D printers | Stenography | Cubing
     external-image: false
     picture: assets/images/Photo.jpg
     twitter: 
