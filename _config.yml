@@ -7,7 +7,7 @@ description: A node to all my social networks
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/picture2.jpg
+picture: assets/images/Photo.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -54,9 +54,9 @@ linkedin: pedrogomezhernandez
 authors:
   johndoe:
     name: Pedro Gomez Hernandez
-    bio: M.Sc. Eng., Technology Based Business Development | Linux | Renewable energy | Business development | Keyboard enthusiast | 3D printers | Overclocking
+    bio: M.Sc. Eng., Technology Based Business Development | Linux | Renewable energy | Business development | Keyboard enthusiast | 3D printers | Stenography | Cubing
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/Photo.jpg
     twitter: 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
