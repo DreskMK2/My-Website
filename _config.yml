@@ -1,6 +1,8 @@
 # main text of home
 name: Pedro Gomez Hernandez
-bio: M.Sc. Eng., Technology Based Business Development | Linux | Virtual reality | Haptics | Business development | Keyboard enthusiast | 3D printers | Stenography | Cubing
+bio: M.Sc. Eng., Technology Based Business Development | Virtual reality | Haptics | Business development
+#bio: M.Sc. Eng., Technology Based Business Development | Linux | Virtual reality | Haptics | Business development | Keyboard enthusiast | 3D printers | Stenography | Cubing
+
 # twitter summary info
 description: A node to all my social networks
 
